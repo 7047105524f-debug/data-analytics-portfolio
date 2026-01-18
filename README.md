@@ -24,8 +24,10 @@ and dashboard creation.
 - Built interactive dashboard with slicers  
 
 **Outcome:**  
+## 📫 Contact
+- LinkedIn: 
+- Email: (7047105524f@gmail.com)
 Improved decision-making using visual insights.
 
 ## 📫 Contact
-- LinkedIn: (add your link)
-- Email: (optional)
+- Email: (7047105524f@gmail.com)
